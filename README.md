@@ -9,6 +9,10 @@
 6. [alpha](https://st.suckless.org/patches/alpha/) patch for transparency
 7. [xresources](https://st.suckless.org/patches/xresources/) patch for reading the xresources (pywal and stuff you know)
 ## Bindings
-+ **scrollback** with `alt-↑/↓` or `alt-pageup/down` or just scroll with mouse.
++ **scrollback** with `alt-j/k` or `alt-pageup/down` or just scroll with mouse.
 + **vim-bindings**: scroll up/down in history with `alt-k` and `alt-j`.
 + **zoom/change font size**: `control-shift-pageup/down`.
++ **transparency**: 
+    - increase with `alt+s`
+    - decrease with `alt+a`
+    - reset with `alt+m`
