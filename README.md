@@ -11,7 +11,7 @@
 ## Bindings
 + **scrollback** with <kbd>alt-j/k</kbd> or <kbd>alt-pageup/down</kbd> or just scroll with mouse.
 + **vim-bindings**: scroll up/down in history with <kbd>alt-k</kbd> and <kbd>alt-j</kbd>.
-+ **zoom/change font size**: <kbd>control-shift-pageup/down</kbd>.
++ **zoom/change font size**: <kbd>control-shift-(pageup/down)/(+/-)</kbd>.
 + **transparency**: 
     - increase with <kbd>alt+s</kbd>
     - decrease with <kbd>alt+a</kbd>
